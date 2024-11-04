@@ -1,0 +1,19 @@
+{
+  "name": "your-project-name",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "@flashbots/ethers-provider-bundle": "^0.6.2",
+    "axios": "^1.7.7",
+    "dotenv": "^8.6.0",
+    "ethers": "^5.7.2",
+    "prompt-sync": "^4.2.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
