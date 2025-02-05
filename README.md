@@ -19,3 +19,9 @@ If there is no response after running for a long time, it may be due to low rpc 
 The script automatically performs the operation of distributing or collecting ETH(BNB) and prints the balance of each wallet.
 
 Eth or bnb can choose their own different rpc mainnets!
+
+Enquiry TG: https://t.me/demlinks
+
+TG Community: https://t.me/demlinkschannel
+
+Discord Community: https://discord.gg/UEmCAbhz9W
